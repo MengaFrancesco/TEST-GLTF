@@ -12,7 +12,7 @@
 			"name":"Scene",
 			"nodes":[
 				0,
-				1,
+				2,
 				3
 			]
 		}
@@ -38,6 +38,18 @@
 			]
 		},
 		{
+			"mesh":0,
+			"name":"Object_15",
+			"translation":[
+				9.714006423950195,
+				-4.248588562011719,
+				-31.034812927246094
+			]
+		},
+		{
+			"children":[
+				1
+			],
 			"name":"Plane.001_5",
 			"rotation":[
 				0,
@@ -57,18 +69,6 @@
 			]
 		},
 		{
-			"mesh":0,
-			"name":"Object_17",
-			"translation":[
-				13.079466819763184,
-				6.569243431091309,
-				-45.749515533447266
-			]
-		},
-		{
-			"children":[
-				2
-			],
 			"name":"White chess side.001_6",
 			"rotation":[
 				0,
@@ -112,7 +112,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Object_8",
+			"name":"Object_7",
 			"primitives":[
 				{
 					"attributes":{
@@ -130,67 +130,67 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":20405,
+			"count":18601,
 			"max":[
-				12.837388038635254,
-				4.45208215713501,
-				4.452081680297852
+				9.619464874267578,
+				3.50335431098938,
+				3.5035359859466553
 			],
 			"min":[
-				-8.344746589660645,
-				-4.452081680297852,
-				-4.452081680297852
+				-6.436874866485596,
+				-3.5108206272125244,
+				-3.510638952255249
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":20405,
+			"count":18601,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":20405,
+			"count":18601,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5123,
-			"count":109152,
+			"count":105864,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":244860,
+			"byteLength":223212,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":244860,
-			"byteOffset":244860,
+			"byteLength":223212,
+			"byteOffset":223212,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":163240,
-			"byteOffset":489720,
+			"byteLength":148808,
+			"byteOffset":446424,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":218304,
-			"byteOffset":652960,
+			"byteLength":211728,
+			"byteOffset":595232,
 			"target":34963
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":871264,
+			"byteLength":806960,
 			"uri":"scene.bin"
 		}
 	]
