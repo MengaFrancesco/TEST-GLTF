@@ -839,13 +839,13 @@
 	"images":[
 		{
 			"mimeType":"image/jpeg",
-			"name":"Material.004_baseColor.jpeg",
-			"uri":"../../chess_set/textures/Material.004_baseColor.jpeg"
+			"name":"Material.004_baseColor",
+			"uri":"Material_004_baseColor.jpg"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"Material.004_metallicRoughness.png",
-			"uri":"../../chess_set/textures/Material.004_metallicRoughness.png"
+			"name":"Material.004_metallicRoughness",
+			"uri":"Material_004_metallicRoughness.png"
 		}
 	],
 	"accessors":[
